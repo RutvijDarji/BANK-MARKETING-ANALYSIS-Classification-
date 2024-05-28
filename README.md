@@ -50,6 +50,6 @@ Finance, Marketing, Banking, Customer Behavior Analysis, Predictive Modeling, Cl
 # ML Algorithms
 * K-Nearest Neighbors (KNN)
 * Logistic Regression
-* Decision Tree
-* Random Forest
+* Decision Tree Classifier 
+* Random Forest Classifier 
 * Best Model AUC: 82.94% (RF)
